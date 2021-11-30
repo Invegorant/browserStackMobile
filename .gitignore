@@ -25,7 +25,6 @@
 .allure/
 .gradle/
 allure-results/
-gradle/
 build/
 bin/
 out/
@@ -38,4 +37,3 @@ target/
 /gradlew
 /gradlew.bat
 .todo
-*.properties
